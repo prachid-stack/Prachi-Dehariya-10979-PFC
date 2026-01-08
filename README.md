@@ -56,4 +56,5 @@ Run the project using:
 
 ## Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/91d1a80e-349d-4cad-9e33-892217638b0f" />
+<img width="1912" height="993" alt="Screenshot 2026-01-08 144939" src="https://github.com/user-attachments/assets/900d3ea7-e772-4ac1-9359-c84774d50c61" />
+
